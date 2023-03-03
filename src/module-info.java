@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Oliveira
+ *
+ */
+module ConversorDeMoedas {
+}
